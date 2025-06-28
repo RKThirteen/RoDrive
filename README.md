@@ -1,6 +1,6 @@
 # RoDrive
 
-**RoDrive** is the official repository for the conference paper *“RoDrive: Fine-Tuning Large Language Models for Romanian Driving License Question Answering”*.  
+**RoDrive** is the official repository for the conference paper submitted by us.  
 It provides the dataset, prompt-generation scripts, and fine-tuning workflows for reproducibility and further research.
 
 ---
